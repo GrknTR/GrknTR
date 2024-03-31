@@ -11,3 +11,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grkntr&show_icons=true&locale=en&layout=compact" alt="grkntr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grkntr&show_icons=true&locale=en" alt="grkntr" /></p>
+
+![snake gif](https://github.com/GrknTR/GrknTR/blob/output/github-contribution-grid-snake.gif)
