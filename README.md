@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gürkan Aksakal</h1>
 <h3 align="center">A passionate Python developer from Türkiye</h3>
 
+![Core-python-at-newus-Dharmsala 0fc3b7c72cdea81baba4](https://github.com/GrknTR/GrknTR/assets/165199975/60173666-1b3d-45f2-88a5-215fda78f456)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
