@@ -13,3 +13,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grkntr&show_icons=true&locale=en" alt="grkntr" /></p>
 
 ![snake gif](https://github.com/GrknTR/GrknTR/blob/output/github-contribution-grid-snake.gif)
+
+
+<h2 align="center"> MY PROJECTS </h2>
+
+<h3 align="align">Tkinter Music Player</h3>
+
+https://github.com/GrknTR/GrknTR/assets/165199975/29e38cbd-a47a-4159-abac-af691dc0d714
+
+
+<h3 align="align">Tkinter Drone Project </h3>
+
+https://github.com/GrknTR/GrknTR/assets/165199975/755d5b8c-c125-4564-bc16-b8f9d228d408
